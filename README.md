@@ -54,7 +54,7 @@ Choose right directors  for specific genres, such as Yarrow Cheney or Kyle Balda
  FILE REPOSISTORY
 
 
-My technical code is stored in this  My presentation to Microsoft can be found 
+My technical code is stored in this https://github.com/Geraldkigotho/dsc-phase-1-project-v2-4/blob/master/student.ipynb   My presentation to Microsoft can be found 
 
 
 
