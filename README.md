@@ -18,7 +18,7 @@ The Number (Production Budget and Worldwide Gross)
 TMDB (Genres)            
 
 
-     KEY RESULTS
+     FINDINGS
 
  
  Genre types such as action and adventure are the best performing films genre
